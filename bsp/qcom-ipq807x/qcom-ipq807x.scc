@@ -1,3 +1,4 @@
 # SPDX-License-Identifier: MIT
 kconf hardware qcom-ipq807x.cfg
 kconf hardware qcom-ipq807x-gfx.cfg
+kconf hardware qcom-ipq807x-base.cfg
